@@ -1,4 +1,4 @@
-# Steampunk-Clock
+# Steampunk Clock By SteamWolf
 A steampunk version of a fork of this https://bit.ly/3RXwBpw 
 ______________________________________________________________
 
