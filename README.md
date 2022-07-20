@@ -6,4 +6,4 @@ I made this because i was bored waiting for stray to become available for downlo
 
 .py is sorce
 
-.exe is applaction
+.zip is applaction
